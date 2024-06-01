@@ -1,0 +1,72 @@
+Cirurgia,Antimicrobiano,Dose adicionais durante a cirurgia,Dose no pós- operatório,Alergia a beta- lactâmicos,Duração da profilaxia,Especialidade
+Limpa sem lesão de mucosa,Não indicado,,,,,Cirurgias de Cabeça e Pescoço
+Limpa com incisão de mucosa ou uso de prótese,Cefazolina 2g EV,Não indicado,Não indicado,Clindamicina 600mg EV,Intraoperatório,Cirurgias de Cabeça e Pescoço
+Oncológica limpa,Cefazolina 2g EV,Cefazolina 1g EV 4/4h,Não indicado,Clindamicina 600mg EV,Intraoperatório,Cirurgias de Cabeça e Pescoço
+Oncológica potencialmente contaminada,Cefazolina 2g EV + Metronidazol 500mg EV ou Clindamicina 600mg EV,Cefazolina 1g EV 4/4h + Metronidazol 500mg EV 6/6h ou Clindamicina 600mg EV 6/6h,Cefazolina 1g EV 8/8h + Metronidazol 500mg EV 8/8h ou Clindamicina 600mg EV 6/6h,Clincamicina 600mg EV 6/6h,24 horas,Cirurgias de Cabeça e Pescoço
+Oncológica infectada,Ceftriaxona 1g EV + Clindamicina 600mg EV,Ceftriaxona 1g EV 12/12h + Clindamicina 600mg EV 6/6h,Ceftriaxona 1g EV 12/12h + Clindamicina 600mg EV 6/6h,Ciprofloxacina 400mg EV 12/12 (iniciar 2h antes do procedimento)+Clindamicina 600mg EV 6/6h,10 a 14 dias - adequar a terapia conforme resultado das culturas colhidas no intraoperatório,Cirurgias de Cabeça e Pescoço
+Cardíaca aberta: Revascularização do miocárdio / troca de válvula,"Cefuroxima 1,5g EV",750mg EV 4/4h ou logo após o término da circulação extracorpórea,750mg EV 6/6h,Vancomicina 1g EV 12/12h (iniciar 2 horas antes do procedimento) ou Clindamicina 600mg EV 6/6h,48 horas,Cirurgia Cardíaca
+Congênitos / troca de válvula,Crianças: Cefuroxima 50mg/ kg/dose EV ou Cefazolina 20-30mg/kg EV na indução anestésica,Cefuroxima: 50mg/kg EV 4/4h ou logo após o término da circulação extracorpórea ou Cefazolina 20-30mg/kg 4/4h,Cefuroxima: 50mg/kg EV 6/6h ou Cefazolina 1g EV 6/6,Vancomicina 10mg/kg EV 6/6h (iniciar 2 horas antes do procedimento) ou Clindamicina 10 mg/kg EV 6/6h,48 horas,Cirurgia Cardíaca
+Inserção de marcapasso,"Cefazolina 2g EV ou Cefuroxima 1,5g EV",Cefazolina 1g 4/4h ou Cefuroxima 750mg EV 4/4h,Cefazolina 1g 8/8h e Cefuroxima 750mg EV 6/6h,Vancomicina 1g EV 12/12h (iniciar 2 horas antes do procedimento) ou Clindamicina 600mg EV 6/6h,24 horas,Cirurgia Cardíaca
+Esôfago ( incisão em mucosa),Cefoxitina 2g EV,Cefoxitina 1g EV 2/2h,Cefoxitina 1g EV 6/6h,Clindamicina 600mg EV 6/6h + Gentamicina 3mg/kg/d EV 1x/d ou Ciprofloxacina 400mg EV 12/12h,24 horas,Cirurgia Gastrointestinal
+Esôfago (neoplasia),"Cefuroxima 1,5g EV + Metronidazol 500mg EV",Cefuroxima 750mg EV 4/4h + Metronidazol 500mg EV 6/6h,Cefuroxima 750mg EV 8/8 + Metronidazol 500mg EV 8/8h,Clindamicina 600mg EV 6/6h,4 dias,Cirurgia Gastrointestinal
+Gastro-duodenal,Cefazolina 2 g EV ou Cefoxitina 2g EV,Cefazolina 1g EV 4/4h ou Cefoxitina 1g EV 2/2h,Cefazolina 1g EV 8/8h Cefoxitina 1g EV 6/6h,Clindamicina 600mg EV 6/6h + Gentamicina 3mg/kg/d EV 1x/d ou Ciprofloxacina 400mg EV 12/12h,24 horas,Cirurgia Gastrointestinal
+Gastrostomia endoscópica,Cefazolina 2 g EV ou Cefoxitina 2g EV (dose única),,,Clindamicina 600mg EV 6/6h,Intraoperatório,Cirurgia Gastrointestinal
+Intestino delgado,Cefoxitina 2g EV / Ceftriaxona 2g (dose única,Cefoxitina 1g EV 2/2h,,Clindamicina 600mg EV 6/6h + Gentamicina 3mg/kg/d EV 1x/d ou Ciprofloxacina 400mg EV 12/12h,Intraoperatório,Cirurgia Gastrointestinal
+Apendicectomia,Cefoxitina 2g EV / Ceftriaxona 2g (dose única ),Cefoxitina 1g EV 2/2h,,Clindamicina 600mg EV 6/6h + Gentamicina 3mg/kg/d EV 1x/d ou Ciprofloxacina 400mg EV 12/12h,"Intra-operatório. Se perfuração, presença de abscesso ou peritonite, converter para antibioticoterapia",Cirurgia Gastrointestinal
+Cólon,Cefoxitina 2g EV,Cefoxitina 1g EV 2/2h,Cefoxitina 1g EV 6/6h,Clindamicina 600mg EV 6/6h + Gentamicina 3mg/kg/d EV 1x/d ou ciprofloxacina 400mg EV 12/12h,48 horas. Preparo mecânico e descontaminação oral é controverso (Sulfato de neomicina 1g + eritromicina 1g no dia anterior à cirurgia 13:00 / 14:00 / 23:00 e uma dose antes da cirurgia ou Sulfato de neomicina 2g + metronidazol 2g no dia anterior da cirurgia 19:00 / 23:00 e uma dose antes da cirurgia),Cirurgia Gastrointestinal
+Colecistectomia (aberta) / Esplenectomia*,Cefazolina 2g EV,Cefazolina 1g EV 4/4h,,Clindamicina 600mg EV 6/6h,Intraoperatório,Cirurgia Gastrointestinal
+"Colecistectomia laparoscópica (alto risco: colangiopancreatografia intra-op., vazamento de bile , conversão para laparotomia pancreatite ou colecistite aguda, icterícia, gestação, imunossupressão, inserção de prótese)",Cefazolina 2g EV,Cefazolina 1g EV 4/4h,,Clindamicina 600mg EV 6/6h,Até 24h,Cirurgia Gastrointestinal
+Gastroduodenopancreatectomia (sem procedimentos invasivos no pré-op.),Cefoxitina 2g EV / Ceftriaxona 2g (dose única),Cefoxitina 1g EV 2/2h,Cefoxitina 1g EV 6/6h,Clindamicina 600mg EV 6/6h + Gentamicina 3mg/kg/d EV 1x/d ou Ciprofloxacina 400mg EV 12/12h,48 horas,Cirurgia Gastrointestinal
+Gastroduodenopancreatectomia (com procedimentos invasivos no pré-op.),"Colher cultura de bile pré-op, caso não disponível: ceftriaxona 1g EV + Metronidazol 500mg EV",Ceftriaxona 1g EV 12/12h + Metronidazol 500mg EV 6/6h,Ceftriaxona 1g EV 12/12h + Metronidazol 500mg EV 8/8h,Clindamicina 600mg EV 6/6h + Gentamicina 3mg/kg/d EV 1x/d ou Ciprofloxacina 400mg EV 12/12h,48 horas,Cirurgia Gastrointestinal
+Pâncreas com abertura do trato gastrintestinal,Cefoxitina 2g EV / Ceftriaxona 2g (dose única ),Cefoxitina 1g EV 2/2h,,Clindamicina 600mg EV 6/6h + Gentamicina 3mg/kg/d EV 1x/d ou Ciprofloxacina 400mg EV 12/12,Intraoperatório,Cirurgia Gastrointestinal
+Hepatectomia (hepatocarcinoma ou metástase hepática),Cefazolina 2g EV + Metronidazol 500mg EV,Cefazolina 1g EV 4/4h + Metronidazol 500mg EV 8/8h,Cefazolina 1g EV 8/8h + Metronidazol 500mg EV 8/8,Clindamicina 600mg EV 6/6h + Gentamicina 3mg/kg/d EV 1x/d ou Ciprofloxacina 400mg EV 12/12h,48 horas,Cirurgia Gastrointestinal
+Hepatectomia (colangiocarcinoma – colher cultura de bile pré-op.),Ceftriaxona 1g EV + Metronidazol 500mg EV,Ceftriaxona 1g EV 12/12h + Metronidazol 500mg EV 8/8h,Ceftriaxona 1g EV 12/12h + Metronidazol 500mg EV 8/8,Clindamicina 600mg EV 6/6h + Gentamicina 3mg/kg/d EV 1x/d ou Ciprofloxacina 400mg EV 12/12h,48 horas,Cirurgia Gastrointestinal
+"Hérnia (hérnia volumosa, tempo previsto > 2 horas, Idade > 65 anos, diabetes, neoplasia, imunossupressão, obesidade – IMC . 30, desnutrição, uso tela)",Cefazolina 2g EV,Cefazolina 1g EV 4/4h,,Clindamicina 600mg EV 6/6h,Intraoperatório,Cirurgia Gastrointestinal
+Craniotomia sem implantação de corpo estranho,"Cefuroxima 1,5g EV /",Cefuroxima 750mg EV 4/4h,,Vancomicina 1g EV 12/12h,Intraoperatório,Cirurgia Neurológica
+Craniotomia com implantação de corpo estranho (ex: válvula),"Cefuroxima 1,5g EV",Cefuroxima 750mg EV 4/4h,Cefuroxima 750mg EV 8/8h,Vancomicina 1g EV 12/12h,48 horas,Cirurgia Neurológica
+Cirurgia com acesso transfenoidal,Clindamicina 900mg EV (dose única),,,Clindamicina 900mg EV (dose única),Intraoperatório,Cirurgia Neurológica
+Laminectomia e demais cirurgias,"Cefuroxima 1,5g EV",Cefuroxima 750mg EV 4/4h,Cefazolina 1g EV 8/8h Cefuroxima 750mg EV 8/8h,Clindamicina 600mg EV 6/6h ou Vancomicina 1g EV 12/12h,24 horas,Cirurgia Neurológica
+Fistula liquórica ou pneumoencefalo pós-trauma,"Cefuroxima 1,5g EV",Cefuroxima 750mg EV 4/4h,"Cefuroxima 1,5g EV 12/12h",Vancomicina 1g EV 12/12h,5 dias,Cirurgia Neurológica
+"Prótese de quadril/joelho ou outras cirurgias eletivas com prótese, ou implante","Cefuroxima 1,5g EV",Cefazolina 1g EV 4/4h ou Cefuroxima 750mg EV 4/4h,Cefazolina 1g EV 8/8h ou Cefuroxima 750mg EV 8/8h,Clindamicina 600mg EV 6/6h ou Vancomicina 1g EV 12/12h,24 horas,Cirurgia Ortopédica
+Artroscopia,Cefazolina 2g EV,Cefazolina 1g EV 4/4h,,Clindamicina 600mg EV 6/6h,Intraoperatório,Cirurgia Ortopédica
+Osteossintese de fêmur (fratura fechada),Cefazolina 2g EV,Cefazolina 1g EV 4/4h,Cefazolina 1g EV 8/8h,Clindamicina 600mg EV 6/6h ou Vancomicina 1g EV 12/12h,24 horas,Cirurgia Ortopédica
+Fratura exposta (tipo 1),Cefazolina 2g EV,Cefazolina 1g EV 4/4h,Cefazolina 1g EV 8/8h,Clindamicina 600mg EV 6/6h ou Vancomicina 1g EV 12/12h,14 dias (não é profilático),Cirurgia Ortopédica
+Fratura exposta (tipo 2 e 3),Clindamicina 600mg EV + Gentamicina 3mg/Kg/dia EV 1x/dia ou Ciprofloxacino 400mg EV,Clindamicina 600mg EV 6/6h + Gentamicina 3mg/Kg/dia EV 1x/dia ou Ciprofloxacino 400mg EV 12/12h,Clindamicina 600mg EV 6/6h + Gentamicina 3mg/Kg/dia EV 1x/dia ou Ciprofloxacino 400mg EV 12/12h,Clindamicina 600mg EV 6/6 + Gentamicina 3mg/Kg/dia I EV 1x/dia ou Ciprofloxacino 400mg EV 12/12,14 dias (não é profilático),Cirurgia Ortopédica
+Laminectomia e demais cirurgias da coluna,"Cefazolina 2g EV ou Cefuroxima 1,5g EV",Cefazolina 1g EV 4/4h ou Cefuroxima 750mg EV 4/4h,Cefazolina 1g EV 8/8h Cefuroxima 750mg EV 8/8h,Clindamicina 600mg EV 6/6h ou Vancomicina 1g EV 12/12h,24 horas,Cirurgia Ortopédica
+Revisão de artroplastia (colher material de vários planos para cultura no intraoperaório para adequação do tratamento),Ceftazidima 2g EV + Vancomicina 1g EV ou Teicoplanina 400mg EV,Ceftazidima 2g EV 8/8h ou Vancomicina 1g EV 12/12h ou Teicoplanina 400mg / dia EV,Ceftazidima 2g EV 8/8h ou Vancomicina 1g EV 12/12h ou Teicoplamina 400mg / dia EV,Vancomicina 1g EV 12/12h ou Ciprofloxacina 400mg EV 12/12h ou Gentamicina 3mg/Kg/dia EV,5 dias - reavaliação após resultado da cultura e aspecto intraoperatório,Cirurgia Ortopédica
+Estéticas (abdominoplastia/ Blefaroplastia/ dermolipectomia/ lipoescultura /otoplastia/ ritnoplastia/ mamoplastia redutora/ mamoplastia com prótese/ reconstrução de mama cirúrgica/ cirurgia de mão (bridas ou sindactilia/ cirurgia reparadora de crânio- fácil ou microcirurgias),Cefazolina 2g EV,Cefazolina 1g EV 4/4h,,Clindamicina 600mg EV 6/6,Intraoperatório,Cirurgia Plástica
+Biopsia de próstata transretal (urucultura negativa),Ciprofloxacino 400mg EV 2h antes do procedimento ou Ceftriaxona 2g EV 1h antes do procedimento,,Ciprofloxacino 500mg VO 12/12h ou Ciprofloxacino 400mg EV (total de 2 a 3 doses),,24 horas,Cirurgia Urológica
+Braquiterapia prostática transperineal,NÃO HÁ INDICAÇÃO,,,,,Cirurgia Urológica
+Extração endoscópica ou manipulação percutânea de cálculos,Ceftriaxona 1g EV,,Norfloxacino 400mg VO 12/12h,"Clindamicina 600mg EV 6/6h ou Vancomicina 1g EV 12/12h, ou Ciprofloxacino 400mg EV 12/12h, ou Gentamicina 3mg/kg/dia EV",24 horas,Cirurgia Urológica
+"Litrotripsia, orquiectomia, vasectomia, varicoletomia",NÃO HÁ INDICAÇÃO,,,,,Cirurgia Urológica
+Estudos urodinâmicos,Norfloxacino 400mg VO,,Norfloxacino 400mg VO 12/12h,,24 horas,Cirurgia Urológica
+Pielografia retrógrada simples,Norfloxacino 400mg VO,,Norfloxacino 400mg VO 12/12h,,24 horas,Cirurgia Urológica
+"Cirurgia endo urológica (colocação ou troca de stent, pielografia retrograda, ureteroscopia diagnóstica e terapêutica)",Ciprofloxacino 500mg VO (dose única),,NÃO HÁ INDICAÇÃO,,Intraoperatório,Cirurgia Urológica
+Nefrectomia,Ceftriaxona 1g EV,,NÃO HÁ INDICAÇÃO,,Intraoperatório,Cirurgia Urológica
+Prótese peniana + esfincter artificial,Ceftriaxona 1g EV + Vancomicina 1g EV,,Ceftriaxona 1g EV 12/12h + Vancomicina 1g EV 12/12h,Vancomicina 1g EV 12/12h + Ciprofloxacino 400mg EV 12/12h ou Gentamicina 3mg/Kg/dia EV,24 horas,Cirurgia Urológica
+"Prostatectomia aberta, ressecção transuretral de próstata",Ceftriaxona 1g EV,Ceftriaxona 1g EV 12/12h,Norfloxacino 400mg VO 12/12h,"Clindamicina 600mg EV 6/6h ou Vancomicina 1g EV 12/12h + Ciprofloxacino 400mg EV 12/12, ou Gentamicina 3mg/Kg/dia",24 horas,Cirurgia Urológica
+Cirurgias com manipulação intestinal,Cefoxitina 2g EV,Cefoxitina 1g EV 2/2h,Cefoxitina 1g EV 6/6h,"Clindamicina 600mg EV 6/6h ou Vancomicina 1g EV 12/12h + Ciprofloxacino 400mg EV 12/12h, ou Gentamicina 3mg/Kg/dia",48 horas,Cirurgia Urológica
+"Varizes (safenectomia, tromboflebite, dermatofibrose, ulcera de estase, linfedema, imunussuprimidos) embolectomia (membros inferiores, extensas com alteração neurológica) enxerto com prótese vascular sem lesão trófica infectada.",Cefazolina 2g EV,Cefazolina 1g EV 4/4h,Cefazolina 1g EV 8/8h,Clindamicina 600mg EV 6/6h ou Vancomicina 1g EV 12/12h,24 horas,Cirurgia Vascular
+Enxerto com veia autóloga sem lesão trófica infectada,Cefazolina 2g EV,Cefazolina 1g EV 4/4h,,Clindamicina 600mg EV ou Vancomicina 1g EV,24 horas,Cirurgia Vascular
+Implante de cateter de longa permanência / fistula artério venosa com prótese,NÃO HÁ INDICAÇÃO,,,,,Cirurgia Vascular
+Fistula artério venosa com prótese,Cefazolina 2g EV (dose única),,,Clindamicina 600mg EV ou Vancomicina 1g EV,Intraoperatório,Cirurgia Vascular
+Amputação por gangrena seca,Cefoxitina 2g EV,Cefoxitina 1g EV 2/2h,Cefoxitina 1g EV 6/6h,Clindamicina 600mg EV 6/6h ou Vancomicina 1g EV12/12h + Ciprofloxacino 400mg EV 12/12h,24 horas,Cirurgia Vascular
+Amputação por gangrena úmida,Clindamicina 600mg EV ou Vancomicina 1g EV + Ciprofloxacino 400mg EV,Clindamicina 600mg EV 6/6h ou Vancomicina 1g EV 12/12h + Ciprofloxacino 400mg EV 12/12h,Clindamicina 600mg EV 6/6h ou Vancomicina 1g EV 12/12h + Ciprofloxacino 400mg EV 12/12h,,72 horas - após adequar terapia conforme culturas,Cirurgia Vascular
+Indicação semelhante à da cirurgia convencional,,,,,,Cirurgia Videolaparoscópica
+"Colporrafia e vaginal
+ sling placement, Endometriose
+ Histerectomia abdominal/vaginal,
+ ooforectomia, miomectomia,
+ panhisterectomia, perineoplastia,
+ cistocele, retocele, uretrocistopexia, Mama: nodulectomia,
+ quadrantectomia, mastectomia,
+ cirurgia estética com prótese",Cefazolina,2g,1g 4/4h,Clindamicina,Sem manutenção,Ginecologia/Obstetrícia
+"Endometriose com manipulação
+ de alça intestinal",Ceftriaxona,2g,1g 12/12h,"Metronidazol
+ +
+ Gentamicina",1g 12/12h (24h),Ginecologia/Obstetrícia
+"Esvaziamento uterino
+ (dilatação e curetagem ou
+ dilatação e esvaziamento)",Cefazolina,2g,Dose única,Clindamicina,,Ginecologia/Obstetrícia
+Parto Cesáreo,"Cefazolina
+ + Azitromicina 1g VO(se IMC>32)",2g,Dose única,Clindamicina,,Ginecologia/Obstetrícia
