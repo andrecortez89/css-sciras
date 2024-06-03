@@ -7,9 +7,7 @@ st.set_page_config(
     page_icon=":hospital:",
     layout="wide",
     menu_items={
-        'Get Help': 'https://www.streamlit.io',
-        'Report a bug': "https://github.com/streamlit/streamlit/issues",
-        'About': "# This is a header. This is an *extremely* cool app!"
+
     }
 )
 
@@ -31,6 +29,7 @@ def main():
     df = load_data()
     st.subheader('Consulta Rápida')
     st.subheader('Profilaxia Cirúrgica')
+    st.write("A 1° dose de antimicrobiano deve ser administrada aproximadamente entre 30 minutos e 1h antes do início da cirurgia.")
     especialidades = df['Especialidade'].unique()
     especialidade_selection = st.multiselect('Especialidade', especialidades)
 
@@ -38,7 +37,7 @@ def main():
         filtered_data = df[df['Especialidade'].isin(especialidade_selection)]
         st.markdown(filtered_data.to_html(escape=False, index=False), unsafe_allow_html=True)
     else:
-        st.write("Selecione uma Especialidade para visualizar os dados.")
+        st.write("Selecione uma Especialidade para visualizar a padronização.")
 
     
 
